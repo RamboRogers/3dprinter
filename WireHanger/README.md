@@ -16,7 +16,7 @@ This was made in AutoDesk Fusion 360 and is free for personal use.
 
 ### Using
 
-* Slice this file in your printer. It's approximately 170mm x 20mm.
+* Slice this file in your printer. It's approximately 170mm x 12mm when printed.
 * Print time is 52 minutes on my Flashforge Artemis. 
 
 ![Wirehanger in use](WireHanger-in-use.png)
