@@ -9,6 +9,8 @@ I've created this repo to share my 3D Printer Things.
 ![SwitchShelf](SwitchShelf/shelf.jpg)
 1. [Card Holder](https://github.com/RamboRogers/3dprinter/tree/master/CardHolder)
 ![Cardholder](CardHolder/cardholder.jpg)
+1. [Glasses Stand](https://github.com/RamboRogers/3dprinter/tree/master/GlassesStand)
+![Cardholder](GlassesStand/stand.jpg)
 
 ## Authors
 
