@@ -12,7 +12,7 @@ This was made in AutoDesk Fusion 360 and is free for personal use.
 
 ### Dependencies
 
-* To print this you need a 3d printer slicer, you do not need to use supports.  The f3d file is the direct export, you can edit that easily in AutoDesk Fusion 360.
+* To print this you need a 3d printer slicer, you do not need to use supports.  
   
 
 ### Using
